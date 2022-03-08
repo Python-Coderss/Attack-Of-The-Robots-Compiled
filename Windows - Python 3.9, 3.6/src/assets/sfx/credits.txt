@@ -1,0 +1,19 @@
+All sounds are from freesound.org
+
+break - https://freesound.org/people/kevinkace/sounds/66771/
+
+bump - https://freesound.org/people/zmobie/sounds/319809/
+
+electrocute - https://freesound.org/people/JoelAudio/sounds/136542/
+
+explosion-big - https://freesound.org/people/animationIsaac/sounds/207322/
+
+explosion-small - https://freesound.org/people/thehorriblejoke/sounds/259962/
+
+powerup - https://freesound.org/people/GameAudio/sounds/220173/
+
+shot - https://freesound.org/people/josepharaoh99/sounds/389590/
+
+splash - https://freesound.org/people/rombart/sounds/186747/
+
+splash-heavy - just splash but lower
